@@ -1,0 +1,7 @@
+npm i in TCWDfinal
+npm i in myStoreApp
+
+npm start in TCWDfinal/api
+ng serve in TCWDfinal/myStoreApp
+
+all dependencies are in package.json (TCWDfinal/package.json for server && TCWDfinal/myStoreApp/package.json for client)
